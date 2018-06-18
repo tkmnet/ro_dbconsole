@@ -1,0 +1,10 @@
+{
+    "name" : "DatabaseConsole",
+    "version" : "0.0.1",
+    "description" : "Database Console",
+    "icon" : "fa-database",
+    "main_controller" : "rrsoacis\\apps\\tkmnet\\ro_dbconsole\\MainPage",
+    "sub_controller" : [
+		],
+    "dependencies" : [ ]
+}
